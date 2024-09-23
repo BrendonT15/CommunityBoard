@@ -5,7 +5,7 @@ const Card = (props) => {
         <div className="Card">
             <h2 className="name">{props.name}</h2>
             <img src={props.image} alt={props.name + " image"}/>
-            <button>Visit Website</button>
+            <button onClick={() => window.open(props.website, '_blank')}>Visit Website</button>
         </div>
     );
 };
