@@ -25,6 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+![image](https://github.com/user-attachments/assets/7034a5f4-c89a-4fe2-93ed-10b51129141a)
+![image](https://github.com/user-attachments/assets/a349b2ed-1d27-4663-9bf5-b55b447c89b2)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
