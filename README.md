@@ -1,21 +1,21 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Community Board - Brooklyn Eats*
 
-Submitted by: **Your Name Here**
+Submitted by: **Brendon Thai**
 
-This web app: **insert description**
+This web app: **Shows the restaurants around Brooklyn**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [X] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Brendon Thai]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
